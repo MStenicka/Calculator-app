@@ -12,3 +12,5 @@ Toto je jednoduchá kalkulačka napsaná v jazyce Java s grafickým rozhraním p
 - Možnost zadat desetinné číslo.
 - Ochrana před dělením nulou.
 - Přehledné a jednoduché grafické rozhraní.
+
+![Kalkulačka](https://github.com/MStenicka/Calculator-app/blob/main/Kalkulacka.png)
